@@ -266,7 +266,7 @@ trabajo/
 
 ## Soporte y Mantenimiento
 
-Para reportar problemas o solicitar mejoras, contactar con el equipo de hectorivanparrahernandez@gmail.com de Argos Colombia.
+Para reportar problemas o solicitar mejoras, contactar con el equipo de hector3208609853@gmail.com de Argos Colombia.
 
 ---
 
